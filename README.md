@@ -1424,3 +1424,18 @@ These resources document earlier testnets and are not current node installation 
 * [Celestia network scanner](https://cosmowiz.com/network/celestia) — Public endpoint discovery.
 
 ---
+
+### Contributions by [Kynraze](https://kynraze.com)
+
+#### Testnet
+* [Tenderduty fork](https://github.com/kynraze/tenderduty) — Monitoring and alerts for validator, Fibre and bridge nodes.
+* [Pruned snapshot](https://kynraze.com/testnet/celestia/sync) — Refreshed every 6 hours.
+* [Consensus node guide](https://kynraze.com/testnet/celestia/installation) — With a command cheatsheet.
+* [Bridge node guide](https://kynraze.com/testnet/celestia/installation?tab=Core+Setup&role=bridge)
+* [Fibre guide](https://kynraze.com/testnet/celestia/installation?tab=Core+Setup&role=fibre)
+* [RPC](https://celestia-testnet-rpc.kynraze.com)
+* [REST API](https://celestia-testnet-api.kynraze.com)
+* gRPC: `celestia-testnet-grpc.kynraze.com:443`
+* Seed: `f204e31fc7fe9dfca764ba7b09c14cbcfe638848@celestia-mocha-seed.kynraze.com:46657`
+
+---
