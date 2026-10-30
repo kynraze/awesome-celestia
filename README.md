@@ -1429,7 +1429,7 @@ These resources document earlier testnets and are not current node installation 
 
 #### Testnet
 * [Tenderduty fork](https://github.com/kynraze/tenderduty) — Monitoring and alerts for validator, Fibre and bridge nodes.
-* [Pruned snapshot](https://kynraze.com/testnet/celestia/sync) — Refreshed every 6 hours.
+* [Pruned snapshot](https://kynraze.com/testnet/celestia/sync) — Refreshed every 30 minutes.
 * [Consensus node guide](https://kynraze.com/testnet/celestia/installation) — With a command cheatsheet.
 * [Bridge node guide](https://kynraze.com/testnet/celestia/installation?tab=Core+Setup&role=bridge)
 * [Fibre guide](https://kynraze.com/testnet/celestia/installation?tab=Core+Setup&role=fibre)
